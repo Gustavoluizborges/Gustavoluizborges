@@ -15,7 +15,7 @@ Atualmente, estou me dedicando a:
 ## 🚀 Meus Projetos
 Aqui estão alguns dos meus projetos mais legais:
 
-### 1. [Projeto CreditCardControl](https://github.com/Gustavoluizborges/projeto-xyz)
+### 1. [Projeto CreditCardControl](https://github.com/Gustavoluizborges/python-learning/tree/main/projeto_credit-card-control)
 Este projeto é um simulador simples de controle de fatura de cartão de crédito feito em Python. A aplicação permite ao usuário realizar operações básicas relacionadas à administração de um cartão de crédito por meio de um menu interativo.
 
 ## 📫 Como me encontrar
